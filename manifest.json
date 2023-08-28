@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro plugin",
+  "version": "1.0",
+  "description": "A plugin for productivity based on pomodoro's technique which consist in work in periods of time and then take a rect.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "author": "jose.angel.hdz.rda@gmail.com"
+}
